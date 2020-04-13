@@ -4,6 +4,8 @@ This project is inspired in the amazing design available on [UpLabs!](https://ww
 
 If you liked the design, visit the url and give the designer some love! :heart:
 
+## Screens
+![](screens/final.gif)
 
 
 ## Executing on your device
