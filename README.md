@@ -6,7 +6,7 @@ If you liked the design, visit the url and give the designer some love! :heart:
 
 ## Watch me build
 
-If your want to watch me building it, refer to this stream on my  [Twitch Channel](https://www.twitch.tv/videos/591404483)
+If your want to watch me building it, refer to this stream on my  [Twitch Channel](https://www.twitch.tv/videos/591301767)
 
 ## Screens
 ![](screens/final.gif)
