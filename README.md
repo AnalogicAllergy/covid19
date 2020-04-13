@@ -4,6 +4,10 @@ This project is inspired in the amazing design available on [UpLabs!](https://ww
 
 If you liked the design, visit the url and give the designer some love! :heart:
 
+## Watch me build
+
+If your want to watch me building it, refer to this stream on my  [Twitch Channel](https://www.twitch.tv/videos/591404483)
+
 ## Screens
 ![](screens/final.gif)
 
