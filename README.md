@@ -9,8 +9,9 @@ If you liked the design, visit the url and give the designer some love! :heart:
 
 
 ## Executing on your device
-    - Clone the repo :floppy_disk: 
-    - Install packages via pub get :gear: 
-    - Run! :rocket: 
+
+- Clone the repo :floppy_disk:
+- Install packages via pub get :gear:
+- Run! :rocket:
 ##
 
